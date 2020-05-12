@@ -1,0 +1,4 @@
+# Lab 4 Report
+
+The tiles I used in this project is from the MapBox templete. For this project, I wanted to highlight the major highways in the US. So I customized the `navigation` basemap and modified the color for the major highways to be a lighter blue to highlight these highways.
+For this project, I used a relatively narrow zoom levels with a maximum zoom level of 7 and a minimum zoom level of 5. The reason I chose these zoom level is that on zoom level 5, the entire border of the US is visible and is in the center of the map; on zoom level 7, the major highways are clearly visible without unnecessarilty rendering the minor roads. Though there are significantly more tiles between level 5 and 7, the map has the balance between a sufficient amount of information and relatively small project size.
